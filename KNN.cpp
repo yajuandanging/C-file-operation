@@ -1,3 +1,4 @@
+//k=4,
 #include <iostream>
 #include <string>
 #include <fstream>
